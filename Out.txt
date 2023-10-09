@@ -1,0 +1,7 @@
+Before Transaction:
+Chequing Account Balance: 1000
+Saving Account Balance: 500
+SUCCESS: Transfer complete.
+After Transaction:
+Chequing Account Balance: 850
+Saving Account Balance: 650
