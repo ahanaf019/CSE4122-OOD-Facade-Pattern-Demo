@@ -4,7 +4,7 @@ public class BankService {
     private Hashtable<Integer, IAccount> bankAccounts;
     private int accountNumberGenerator;
 
-    
+
     public BankService() {
         this.bankAccounts = new Hashtable<Integer, IAccount>();
         this.accountNumberGenerator = 101;
@@ -54,7 +54,7 @@ public class BankService {
     }
 
 
-    public int getAccountAccountsCount() {
+    public int getAccountsCount() {
         return bankAccounts.size();
     }
 
